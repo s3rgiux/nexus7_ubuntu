@@ -124,14 +124,15 @@ Based on the repo wich already forked
 
 >  https://github.com/marvinody/mercari/
 
+>  https://github.com/s3rgiux/mercari
 cloned the repo and change the requirements 
-
 
 
 ## History
 
-Added the historyjust in case
+Added history just in case
 
+```
 1  ifconfig
     2  sudo android-gadget-service enable ssh
     3  mkdir .ssh
@@ -176,7 +177,7 @@ Added the historyjust in case
    42  python3.9
    43  python3.9 -m pip install pymavlink
    44  sudo apt search pip
-
+```
 
 
 
